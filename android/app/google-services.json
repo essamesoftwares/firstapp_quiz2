@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122232651869",
+    "firebase_url": "https://quiz-maker-82969.firebaseio.com",
+    "project_id": "quiz-maker-82969",
+    "storage_bucket": "quiz-maker-82969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122232651869:android:6bdd565aa2925b71a8cdb4",
+        "android_client_info": {
+          "package_name": "com.essame.firstapp_quiz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122232651869-pnbdeumu8rmifkqf5mnb3rpfr9bgue6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQe4NquOMMmxus5YhI5_Cd5YV9SANDqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122232651869-pnbdeumu8rmifkqf5mnb3rpfr9bgue6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
